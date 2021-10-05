@@ -1,0 +1,14 @@
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.exe
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.deps.json
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.runtimeconfig.json
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.runtimeconfig.dev.json
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.dll
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\bin\Debug\netcoreapp3.1\ByteBank3.pdb
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.csproj.AssemblyReference.cache
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.AssemblyInfo.cs
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.dll
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.pdb
+C:\Users\Iara Camargos\source\repos\ByteBank3\ByteBank3\obj\Debug\netcoreapp3.1\ByteBank3.genruntimeconfig.cache
