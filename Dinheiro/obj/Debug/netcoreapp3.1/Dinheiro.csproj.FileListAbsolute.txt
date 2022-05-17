@@ -1,0 +1,17 @@
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.exe
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.deps.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.runtimeconfig.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.runtimeconfig.dev.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Dinheiro.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.csproj.AssemblyReference.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.AssemblyInfo.cs
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.csproj.CopyComplete
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\Dinheiro\obj\Debug\netcoreapp3.1\Dinheiro.genruntimeconfig.cache

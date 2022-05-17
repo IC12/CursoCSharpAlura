@@ -1,0 +1,17 @@
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.exe
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.deps.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.runtimeconfig.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.runtimeconfig.dev.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\CEP.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.AssemblyInfo.cs
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.genruntimeconfig.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.csproj.CopyComplete
+C:\Users\Iara Camargos\source\repos\EstudosC#\CEP\obj\Debug\netcoreapp3.1\CEP.csproj.AssemblyReference.cache

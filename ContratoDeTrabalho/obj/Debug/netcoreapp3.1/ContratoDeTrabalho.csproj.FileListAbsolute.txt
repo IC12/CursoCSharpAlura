@@ -1,0 +1,17 @@
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.exe
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.deps.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.runtimeconfig.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.runtimeconfig.dev.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.AssemblyInfo.cs
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.genruntimeconfig.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csproj.AssemblyReference.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csproj.CopyComplete
