@@ -1,0 +1,17 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\bin\Debug\ByteBank.View.exe.config
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\bin\Debug\ByteBank.View.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\bin\Debug\ByteBank.View.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\bin\Debug\ByteBank.Core.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\bin\Debug\ByteBank.Core.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.csproj.AssemblyReference.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\MainWindow.baml
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\MainWindow.g.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\App.g.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View_MarkupCompile.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.g.resources
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.Properties.Resources.resources
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.csproj.GenerateResource.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.csproj.CopyComplete
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.View\obj\Debug\ByteBank.View.pdb

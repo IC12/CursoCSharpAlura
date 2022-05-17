@@ -1,0 +1,6 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\bin\Debug\ByteBank.Core.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\bin\Debug\ByteBank.Core.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.AssemblyReference.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\C# Paralelismo\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.pdb
