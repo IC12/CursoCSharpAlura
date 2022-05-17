@@ -1,0 +1,14 @@
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.exe
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.deps.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.runtimeconfig.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.runtimeconfig.dev.json
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\bin\Debug\netcoreapp3.1\TrabalhandoDatas.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.AssemblyInfo.cs
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.dll
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.pdb
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.genruntimeconfig.cache
+C:\Users\Iara Camargos\source\repos\EstudosC#\TrabalhandoDatas\obj\Debug\netcoreapp3.1\TrabalhandoDatas.csproj.AssemblyReference.cache
