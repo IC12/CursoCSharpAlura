@@ -1,0 +1,14 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.deps.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.runtimeconfig.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.runtimeconfig.dev.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\bin\Debug\netcoreapp3.1\PoderDosSets.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.csproj.AssemblyReference.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.AssemblyInfoInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.AssemblyInfo.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\PoderDosSets\obj\Debug\netcoreapp3.1\PoderDosSets.genruntimeconfig.cache
