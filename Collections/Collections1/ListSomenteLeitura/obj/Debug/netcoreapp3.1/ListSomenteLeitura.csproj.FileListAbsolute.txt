@@ -1,0 +1,14 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.deps.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.runtimeconfig.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.runtimeconfig.dev.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\bin\Debug\netcoreapp3.1\ListSomenteLeitura.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.csproj.AssemblyReference.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.AssemblyInfoInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.AssemblyInfo.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\ListSomenteLeitura\obj\Debug\netcoreapp3.1\ListSomenteLeitura.genruntimeconfig.cache
