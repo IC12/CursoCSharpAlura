@@ -1,0 +1,13 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
