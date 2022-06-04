@@ -1,0 +1,14 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.deps.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\bin\Debug\netcoreapp3.1\Arrays.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\Collections1\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
