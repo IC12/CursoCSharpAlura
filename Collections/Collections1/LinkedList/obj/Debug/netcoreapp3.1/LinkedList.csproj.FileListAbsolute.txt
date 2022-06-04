@@ -1,0 +1,13 @@
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+G:\Meu Drive\EstudosProdap\AprendendoCSharp\EstudosC#\Collections1\Collections1\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
